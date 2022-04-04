@@ -1,6 +1,13 @@
 # Últimos Cambios
 
-<!-- Version start @@ {"version": "v1.3.0", "release": "Fix Release", "shouldCreateRelease": "true"} -->
+<!-- Version start @@ {"version": "v1.3.1", "release": "Optimizaciones", "shouldCreateRelease": "true"} -->
+
+## v1.3.1 2022-04-03
+
+### General
+* Optimizaciones.
+
+  <!-- Version end -->
 
 ## v1.3.0 2022-03-30
 
@@ -13,7 +20,5 @@
 * Corrijo problemas de sincronización.
 * Modificaciones en la interfaz de la devolución.
 ### General
-* Los números ahora se muestran en formato español, de 123,456.789 a 123.456,789 
+* Los números ahora se muestran en formato español, de 123,456.789 a 123.456,789
 * Mejoras estéticas. 
-  
-  <!-- Version end -->
