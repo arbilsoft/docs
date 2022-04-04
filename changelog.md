@@ -1,13 +1,18 @@
 # Últimos Cambios
 
-<!-- Version start @@ {"version": "v1.3.1", "release": "Optimizaciones", "shouldCreateRelease": "true"} -->
+<!-- Version start @@ {"version": "v1.4.0", "release": "Dockerizando APP", "shouldCreateRelease": "true"} -->
+
+## v1.4.0 2022-04-03
+
+### General
+* Mejoras en el ambiente de desarrollo.
+
+  <!-- Version end -->
 
 ## v1.3.1 2022-04-03
 
 ### General
 * Optimizaciones.
-
-  <!-- Version end -->
 
 ## v1.3.0 2022-03-30
 
