@@ -1,13 +1,20 @@
 # Últimos Cambios
 
-<!-- Version start @@ {"version": "v1.4.0", "release": "Dockerizando APP", "shouldCreateRelease": "true"} -->
+<!-- Version start @@ {"version": "v1.4.1", "release": "Fix GPS Error", "shouldCreateRelease": "true"} -->
+
+## v1.4.1 2022-04-05
+
+### Repartidor
+* Corrijo un inconveniente que no permitía generar las coordenadas de la ubicación para el rastreo satelital.
+### General
+* Mejoras en el ambiente de desarrollo.
+
+  <!-- Version end -->
 
 ## v1.4.0 2022-04-03
 
 ### General
 * Mejoras en el ambiente de desarrollo.
-
-  <!-- Version end -->
 
 ## v1.3.1 2022-04-03
 
