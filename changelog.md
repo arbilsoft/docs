@@ -1,6 +1,19 @@
 # Últimos Cambios
 
-<!-- Version start @@ {"version": "v1.4.1", "release": "Fix GPS Error", "shouldCreateRelease": "true"} -->
+<!-- Version start @@ {"version": "v1.4.2", "release": "Mejoras en Dashboard del Administrador", "shouldCreateRelease": "true"} -->
+
+## v1.4.2 2022-04-11
+
+### Administrador
+* Ahora en el dashboard: 
+  * Se va a poder visualizar el cumplimiento, porcentaje de clientes del itinerario actual con ventas no omitidas.
+  * La sección de dinero recaudado indica también el dinero cobrado externamente.
+  * La sección de "Dinero Acumulado" ahora pasa a llamarse "Artículos Vendidos", ya que la misma representa eso, el precio acumulado de los artículos vendidos.
+### General
+* Mejoras en el ambiente de desarrollo.
+* Optimizaciones
+
+  <!-- Version end -->
 
 ## v1.4.1 2022-04-05
 
@@ -8,8 +21,6 @@
 * Corrijo un inconveniente que no permitía generar las coordenadas de la ubicación para el rastreo satelital.
 ### General
 * Mejoras en el ambiente de desarrollo.
-
-  <!-- Version end -->
 
 ## v1.4.0 2022-04-03
 
