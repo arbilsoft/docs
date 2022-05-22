@@ -1,19 +1,37 @@
 # Últimos Cambios
 
-<!-- Version start @@ {"version": "v1.4.2", "release": "Mejoras en Dashboard del Administrador", "shouldCreateRelease": "true"} -->
+<!-- Version start @@ {"version": "v1.5.0", "release": "Mejoras estéticas y nuevo renderizador en el repartidor", "shouldCreateRelease": "true"} -->
 
-## v1.4.2 2022-04-11
+## v1.5.0 2022-05-22
 
 ### Administrador
-* Ahora en el dashboard: 
-  * Se va a poder visualizar el cumplimiento, porcentaje de clientes del itinerario actual con ventas no omitidas.
-  * La sección de dinero recaudado indica también el dinero cobrado externamente.
-  * La sección de "Dinero Acumulado" ahora pasa a llamarse "Artículos Vendidos", ya que la misma representa eso, el precio acumulado de los artículos vendidos.
+* Mejoras estéticas en la sección de operaciones y de artículos.
+### Repartidor
+* Transición entre clientes utilizando los botones de adelante y atrás más veloz.
+* Transición entre vistas más estable.
+* Mejoras en la actualización de deuda de clientes.
+* Sincronizador más estable.
+### Landing Page
+* Correcciones estéticas.
+* Velocidad de carga inicial optimizada.
 ### General
+* Corrección a ciertas situaciones en las que un número pequeño y negativo(-0,1) podía llegar a aparecer como "-,N".
+* Soluciono un problema que se podía dar durante la actualización de la aplicación bajo ciertas condiciones de red.
 * Mejoras en el ambiente de desarrollo.
 * Optimizaciones
 
   <!-- Version end -->
+
+## v1.4.2 2022-04-11
+
+### Administrador
+* Ahora en el dashboard:
+    * Se va a poder visualizar el cumplimiento, porcentaje de clientes del itinerario actual con ventas no omitidas.
+    * La sección de dinero recaudado indica también el dinero cobrado externamente.
+    * La sección de "Dinero Acumulado" ahora pasa a llamarse "Artículos Vendidos", ya que la misma representa eso, el precio acumulado de los artículos vendidos.
+### General
+* Mejoras en el ambiente de desarrollo.
+* Optimizaciones
 
 ## v1.4.1 2022-04-05
 
