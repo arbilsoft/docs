@@ -1,6 +1,23 @@
 # Últimos Cambios
 
-<!-- Version start @@ {"version": "v1.5.0", "release": "Mejoras estéticas y nuevo renderizador en el repartidor", "shouldCreateRelease": "true"} -->
+<!-- Version start @@ {"version": "v1.6.0", "release": "Correcciones y mejor manejo de dependencia e importaciones", "shouldCreateRelease": "true"} -->
+
+## v1.6.0 2022-06-06
+
+### Administrador
+* Ahora, en la sección de usuarios, informo mediante un icono aquellos clientes con un par de coordenadas inválidas.
+* Ahora, en la sección de itinerarios, se pueden cargar compras, entregas y ventas.
+### Repartidor
+* Soluciono un problema que ocurría al eliminar ventas.
+* Soluciono un problema que no permitía ver los detalles de los artículos de una venta recientemente realizada al volver a visitar un cliente dado.  
+### Landing Page
+* Velocidad de carga inicial optimizada.
+### General
+* Reducción de un 20% en el tamaño de la aplicación.
+* Mejoras en el ambiente de desarrollo.
+* Optimizaciones
+
+  <!-- Version end -->
 
 ## v1.5.0 2022-05-22
 
@@ -19,8 +36,6 @@
 * Soluciono un problema que se podía dar durante la actualización de la aplicación bajo ciertas condiciones de red.
 * Mejoras en el ambiente de desarrollo.
 * Optimizaciones
-
-  <!-- Version end -->
 
 ## v1.4.2 2022-04-11
 
