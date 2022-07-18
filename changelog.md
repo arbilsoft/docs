@@ -1,6 +1,17 @@
 # Últimos Cambios
 
-<!-- Version start @@ {"version": "v1.6.0", "release": "Correcciones y mejor manejo de dependencia e importaciones", "shouldCreateRelease": "true"} -->
+<!-- Version start @@ {"version": "v1.7.0", "release": "Sincronización automática de datos de artículos", "shouldCreateRelease": "true"} -->
+<!-- version: (año actual - 2021).(nro del mes).(nro de version del mes) -->
+
+## v1.7.0 2022-07-17
+
+### Administrador
+* Corrijo un error al seleccionar una fecha en el primer reporte del dashboard.
+### Repartidor
+* Ahora el repartidor tiene conocimiento sobre todos los artículos con envase para poder recibirlos aunque no los tenga.
+* Ahora se actualizan los datos de los artículos en caso de que se les haya hecho algún cambio desde el administrador, por ejemplo, el precio.
+
+  <!-- Version end -->
 
 ## v1.6.0 2022-06-06
 
@@ -9,15 +20,13 @@
 * Ahora, en la sección de itinerarios, se pueden cargar compras, entregas y ventas.
 ### Repartidor
 * Soluciono un problema que ocurría al eliminar ventas.
-* Soluciono un problema que no permitía ver los detalles de los artículos de una venta recientemente realizada al volver a visitar un cliente dado.  
+* Soluciono un problema que no permitía ver los detalles de los artículos de una venta recientemente realizada al volver a visitar un cliente dado.
 ### Landing Page
 * Velocidad de carga inicial optimizada.
 ### General
 * Reducción de un 20% en el tamaño de la aplicación.
 * Mejoras en el ambiente de desarrollo.
 * Optimizaciones
-
-  <!-- Version end -->
 
 ## v1.5.0 2022-05-22
 
