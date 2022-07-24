@@ -1,7 +1,14 @@
 # Últimos Cambios
 
-<!-- Version start @@ {"version": "v1.7.0", "release": "Sincronización automática de datos de artículos", "shouldCreateRelease": "true"} -->
+<!-- Version start @@ {"version": "v1.7.1", "release": "Second Release Attempt", "shouldCreateRelease": "true"} -->
 <!-- version: (año actual - 2021).(nro del mes).(nro de version del mes) -->
+
+## v1.7.1 2022-07-24
+
+### General
+* Correcciones.
+
+  <!-- Version end -->
 
 ## v1.7.0 2022-07-17
 
@@ -10,8 +17,6 @@
 ### Repartidor
 * Ahora el repartidor tiene conocimiento sobre todos los artículos con envase para poder recibirlos aunque no los tenga.
 * Ahora se actualizan los datos de los artículos en caso de que se les haya hecho algún cambio desde el administrador, por ejemplo, el precio.
-
-  <!-- Version end -->
 
 ## v1.6.0 2022-06-06
 
