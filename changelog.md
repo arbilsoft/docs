@@ -1,9 +1,9 @@
 # Últimos Cambios
 
-<!-- Version start @@ {"version": "v1.7.1.10", "release": "Second Release Attempt", "shouldCreateRelease": "true"} -->
+<!-- Version start @@ {"version": "v1.7.1.11", "release": "Second Release Attempt", "shouldCreateRelease": "true"} -->
 <!-- version: (año actual - 2021).(nro del mes).(nro de version del mes) -->
 
-## v1.7.1.10 2022-07-24
+## v1.7.1.11 2022-07-24
 
 ### General
 * Correcciones.
