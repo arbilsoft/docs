@@ -1,14 +1,24 @@
 # Últimos Cambios
 
-<!-- Version start @@ {"version": "v1.7.1.12", "release": "Correcciones", "shouldCreateRelease": "true"} -->
+<!-- Version start @@ {"version": "v1.10.0", "release": "Restify", "shouldCreateRelease": "true"} -->
 <!-- version: (año actual - 2021).(nro del mes).(nro de version del mes) -->
+
+## v1.10.0 2022-10-23
+
+### Admin
+* Unifico la creación de usuarios gracias a un nuevo componente global.
+* Permito obtener y regenerar credenciales temporales para un cliente. 
+### Cliente
+* Versión inicial y básica de dashboard para clientes finales, incluye deuda actual de dinero y envases y tabla de últimas operaciones.
+### Repartidor
+* Corrijo errores durante la sincronización y la creación de nuevas ventas.
+
+  <!-- Version end -->
 
 ## v1.7.1.12 2022-07-25
 
 ### General
 * Correcciones.
-
-  <!-- Version end -->
 
 ## v1.7.1 2022-07-24
 
