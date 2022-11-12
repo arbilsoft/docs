@@ -1,14 +1,19 @@
 # Últimos Cambios
 
-<!-- Version start @@ {"version": "v1.11.0", "release": "Little Fix", "shouldCreateRelease": "true"} -->
+<!-- Version start @@ {"version": "v1.11.1", "release": "Client Fixes", "shouldCreateRelease": "true"} -->
 <!-- version: (año actual - 2021).(nro del mes).(nro de version del mes) -->
+
+## v1.11.1 2022-11-12
+
+### Cliente
+* Corrijo problemas en el dashboard del cliente.
+
+  <!-- Version end -->
 
 ## v1.11.0 2022-11-05
 
 ### Admin
 * Corrijo un problema en el creador de usuarios.
-
-  <!-- Version end -->
 
 ## v1.10.0 2022-10-23
 
