@@ -1,14 +1,22 @@
 # Últimos Cambios
 
-<!-- Version start @@ {"version": "v1.11.1", "release": "Client Fixes", "shouldCreateRelease": "true"} -->
+<!-- Version start @@ {"version": "v1.11.2", "release": "On-Demand Ops", "shouldCreateRelease": "true"} -->
 <!-- version: (año actual - 2021).(nro del mes).(nro de version del mes) -->
+
+## v1.11.2 2022-11-24
+
+### Repartidor
+* Ahora puede solicitar más operaciones de un cliente en específico si así lo desea.
+
+### Admin
+* Ahora puede crear un cliente sin necesidad de asignarle un repartidor. 
+
+  <!-- Version end -->
 
 ## v1.11.1 2022-11-12
 
 ### Cliente
 * Corrijo problemas en el dashboard del cliente.
-
-  <!-- Version end -->
 
 ## v1.11.0 2022-11-05
 
